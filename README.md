@@ -1,4 +1,4 @@
-# Coments and Posts
+# Posts and Coments  
 
 ### Console Output:
 
